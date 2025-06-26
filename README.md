@@ -40,6 +40,8 @@ O código Python contido neste repositório realiza as seguintes etapas:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/6347c5db-57e9-49ce-8746-f6a23c2ea5d2)
+
 ## Como Rodar o Código
 
 Você pode executar este código diretamente em um ambiente como o **Google Colab** ou qualquer ambiente Python que tenha as bibliotecas necessárias instaladas.
